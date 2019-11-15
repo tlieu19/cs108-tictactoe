@@ -23,3 +23,10 @@ The `name` field is used for a couple of reasons:
 You can get up to **10%** of your overall grade if you complete all of the items mentioned in the rubric.
 A lot of incentive but it is a correspondingly harder assignment as well.
 Try to do at least the first few items in the rubric: it will only help your grade.
+
+## Submission & Due Date
+### Submission
+Either come by during office hours or email me the `ComputerPlayer.java` file.
+
+### Due Date
+Submit it on or before the 9th of December.
