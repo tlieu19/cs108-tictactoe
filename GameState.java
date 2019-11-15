@@ -1,5 +1,3 @@
-package recursion.tictactoe;
-
 import java.util.Arrays;
 
 public class GameState {
